@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#44c5d3"  #Neon Cyan for buttons and sliders
+backgroundColor = "#0a0e17"   # Deep space dark backgroundColor
+secondarybackgroundColor = "#0c0d15ce"   # Slightly lighter dark for sidebar/inputs
+textColor = "#f80404"  
+font = "sans serif" 
